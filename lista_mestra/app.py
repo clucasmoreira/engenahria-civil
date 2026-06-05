@@ -2,7 +2,7 @@ import streamlit as st
 import tempfile
 import os
 
-from lista_mestra import gerar_lista_mestra
+from lista_mestra_web import gerar_lista_mestra
 
 st.set_page_config(
     page_title="Lista Mestra",
